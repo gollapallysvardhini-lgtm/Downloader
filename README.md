@@ -76,36 +76,5 @@ Then open the local URL shown in your terminal (usually [http://localhost:8501](
 └── README.md
 ```
 
-## Notes
 
-* The app uses HTTP requests and HTML parsing, so it works best with static pages.
-* JavaScript-rendered content may not be detected.
-* File size detection depends on server headers and may not always be available.
-* Large files may take time depending on your network speed.
 
-## Limitations
-
-* No authentication support for protected pages
-* No resume support for interrupted downloads
-* Limited error handling for edge cases
-* Relies on `HEAD` requests for file size, which some servers block
-
-## Future Improvements
-
-* Add support for authentication (login/session)
-* Resume interrupted downloads
-* Better error handling and logging
-* UI improvements for large file lists
-* Support for recursive crawling
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-If you want, I can also:
-
-* add a requirements.txt
-* convert this into a GitHub-ready version with badges
-* or simplify it for beginners
