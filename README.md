@@ -1,6 +1,3 @@
-Here’s a clean README for your project without emojis:
-
----
 
 # Web File Downloader
 
