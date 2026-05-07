@@ -68,7 +68,7 @@ Then open the local URL shown in your terminal (usually [http://localhost:8501](
 
 ```
 .
-├── app.py
+├── downloader.py
 ├── downloads/
 └── README.md
 ```
